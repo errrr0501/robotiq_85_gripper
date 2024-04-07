@@ -2,3 +2,8 @@
 
 initial_positions:
   robotiq_85_left_knuckle_joint: 0
+  # robotiq_85_left_finger_tip_joint: 0
+  # robotiq_85_left_inner_knuckle_joint: 0
+  # robotiq_85_right_finger_tip_joint: 0
+  # robotiq_85_right_inner_knuckle_joint: 0
+  # robotiq_85_right_knuckle_joint: 0
